@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://beddeb.com/2013/10/03/开源移动——mAdserve广告服务器/</loc>
+    <lastmod>2013-10-03T13:42:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/一个JS库查看——WebODF ODF文件/</loc>
+    <lastmod>2013-10-03T13:42:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/jFontSize -即时“字体大小”网页的东东/</loc>
+    <lastmod>2013-10-03T13:42:12.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/跨浏览器的HTML5音像:html5media/</loc>
+    <lastmod>2013-10-03T13:42:02.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/令人印象深刻的印刷实验通过“网页排版的孤独”/</loc>
+    <lastmod>2013-10-03T13:41:52.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/为您的API文档引擎——大摇大摆/</loc>
+    <lastmod>2013-10-03T13:41:42.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/WIODE——开源,平原和基于web的IDE/</loc>
+    <lastmod>2013-10-03T13:41:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/自由和php动力问答应用:Coordino/</loc>
+    <lastmod>2013-10-03T13:41:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/美丽由简单的桌面壁纸和读取/</loc>
+    <lastmod>2013-10-03T13:41:12.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/响应内容——FlexSlider jQuery滑块/</loc>
+    <lastmod>2013-10-03T13:41:02.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/免费的JavaScript库——Elycharts图表/</loc>
+    <lastmod>2013-10-03T13:40:49.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/CSS粉碎:基于php的CSS预处理程序/</loc>
+    <lastmod>2013-10-03T13:40:39.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/控制视窗&坐���与jQuery.fracs的元素/</loc>
+    <lastmod>2013-10-03T13:40:29.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/Adobe边缘——一个设计工具,基于html5的动画/</loc>
+    <lastmod>2013-10-03T13:40:19.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/theexpressiveweb.com——一个可爱的资源在CSS3和HTML5/</loc>
+    <lastmod>2013-10-03T13:40:09.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/开源& html5动力思维导图的应用——思维地图/</loc>
+    <lastmod>2013-10-03T13:39:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/跨浏览器的CSS和Prefixr前缀/</loc>
+    <lastmod>2013-10-03T13:39:49.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/javascript驱动的多用户聊天:糖果/</loc>
+    <lastmod>2013-10-03T13:39:39.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/03/文件管理器使用PHP和jQuery:SFBrowser/</loc>
     <lastmod>2013-10-03T13:39:29.000Z</lastmod>
   </url>
@@ -289,76 +361,8 @@
     <lastmod>2013-10-03T13:08:36.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/开源移动——mAdserve广告服务器/</loc>
-    <lastmod>2013-10-03T13:08:22.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/一个JS库查看——WebODF ODF文件/</loc>
-    <lastmod>2013-10-03T13:08:12.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/jFontSize -即时“字体大小”网页的东东/</loc>
-    <lastmod>2013-10-03T13:08:02.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/跨浏览器的HTML5音像:html5media/</loc>
-    <lastmod>2013-10-03T13:07:52.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/令人印象深刻的印刷实验通过“网页排版的孤独”/</loc>
-    <lastmod>2013-10-03T13:07:42.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/为您的API文档引擎——大摇大摆/</loc>
-    <lastmod>2013-10-03T13:07:32.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/WIODE——开源,平原和基于web的IDE/</loc>
-    <lastmod>2013-10-03T13:07:22.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/自由和php动力问答应用:Coordino/</loc>
-    <lastmod>2013-10-03T13:07:12.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/美丽由简单的桌面壁纸和读取/</loc>
-    <lastmod>2013-10-03T13:07:02.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/响应内容——FlexSlider jQuery滑块/</loc>
-    <lastmod>2013-10-03T13:06:52.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/免费的JavaScript库——Elycharts图表/</loc>
-    <lastmod>2013-10-03T13:06:39.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/CSS粉碎:基于php的CSS预处理程序/</loc>
-    <lastmod>2013-10-03T13:06:29.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/控制视窗&坐标与jQuery.fracs的元素/</loc>
     <lastmod>2013-10-03T13:06:19.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/Adobe边缘——一个设计工具,基于html5的动画/</loc>
-    <lastmod>2013-10-03T13:06:09.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/theexpressiveweb.com——一个可爱的资源在CSS3和HTML5/</loc>
-    <lastmod>2013-10-03T13:05:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/开源& html5动力思维导图的应用——思维地图/</loc>
-    <lastmod>2013-10-03T13:05:49.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/跨浏览器的CSS和Prefixr前缀/</loc>
-    <lastmod>2013-10-03T13:05:39.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/javascript驱动的多用户聊天:糖果/</loc>
-    <lastmod>2013-10-03T13:05:29.000Z</lastmod>
   </url>
   <url>
     <loc>http://beddeb.com/2013/10/03/Kivy——开源&跨平台图书馆创新的用户界面/</loc>
@@ -417,11 +421,11 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/自托管和免费的项目管理应用为自由职业者-独奏/</loc>
+    <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
+    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
@@ -429,15 +433,7 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/捕获键盘输入与JavaScript:键盘按键/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
@@ -445,7 +441,15 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&/</loc>
+    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/自托管和免费的项目管理应用为自由职业者-独奏/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
