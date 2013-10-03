@@ -302,7 +302,10 @@ article .entry ul,
 article .entry ol,
 article .entry table,
 article .entry dl {
-  margin: 0 0 20px;
+  margin: 0 0 10px;
+}
+br{
+  display: none;
 }
 article .entry h1,
 article .entry h2,
