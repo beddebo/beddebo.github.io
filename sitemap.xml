@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://beddeb.com/2013/10/03/文件管理器使用PHP和jQuery:SFBrowser/</loc>
+    <lastmod>2013-10-03T13:39:29.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/页内&即时媒体播放器——雅虎!webplayer/</loc>
+    <lastmod>2013-10-03T13:39:19.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/比较的HTML5视频播放器:VideoSWS/</loc>
+    <lastmod>2013-10-03T13:39:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/一个巨大的&免费设计包的出世/</loc>
+    <lastmod>2013-10-03T13:38:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/CanvasLoader - Ajax加载器图像与HTML5画布/</loc>
+    <lastmod>2013-10-03T13:38:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/一个Apache指数——h5ai美化/</loc>
+    <lastmod>2013-10-03T13:38:30.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/jQuery UI库EasyUI——完整的JavaScript/</loc>
+    <lastmod>2013-10-03T13:38:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/先进的虚拟文本生成器:RandomText/</loc>
+    <lastmod>2013-10-03T13:38:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/一个开源的PHP演示引擎——Foafpress RDF数据/</loc>
+    <lastmod>2013-10-03T13:38:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/社会的乐高:向量社会图标集(独家)/</loc>
+    <lastmod>2013-10-03T13:37:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/检查你的浏览器的功能与热影响区io/</loc>
+    <lastmod>2013-10-03T13:37:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/泡泡提示与jQuery:抱怨js/</loc>
+    <lastmod>2013-10-03T13:37:30.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/03/BluCSS - CSS框架,用于响应的布局/</loc>
     <lastmod>2013-10-03T13:18:43.000Z</lastmod>
   </url>
@@ -313,14 +361,6 @@
     <lastmod>2013-10-03T13:05:29.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/文件管理器使用PHP和jQuery:SFBrowser/</loc>
-    <lastmod>2013-10-03T13:05:19.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/页内&即时媒体播放器——雅虎!webplayer/</loc>
-    <lastmod>2013-10-03T13:05:09.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/Kivy——开源&跨平台图书馆创新的用户界面/</loc>
     <lastmod>2013-10-03T13:04:51.000Z</lastmod>
   </url>
@@ -361,46 +401,6 @@
     <lastmod>2013-10-03T13:03:21.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/比较的HTML5视频播放器:VideoSWS/</loc>
-    <lastmod>2013-10-03T13:03:08.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/一个巨大的&免费设计包的出世/</loc>
-    <lastmod>2013-10-03T13:02:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/CanvasLoader - Ajax加载器图像与HTML5画布/</loc>
-    <lastmod>2013-10-03T13:02:48.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/一个Apache指数——h5ai美化/</loc>
-    <lastmod>2013-10-03T13:02:38.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/jQuery UI库EasyUI——完整的JavaScript/</loc>
-    <lastmod>2013-10-03T13:02:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/先进的虚拟文本生成器:RandomText/</loc>
-    <lastmod>2013-10-03T13:02:18.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/一个开源的PHP演示引擎——Foafpress RDF数据/</loc>
-    <lastmod>2013-10-03T13:02:08.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/社会的乐高:向量社会图标集(独家)/</loc>
-    <lastmod>2013-10-03T13:01:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/检查你的浏览器的功能与热影响区io/</loc>
-    <lastmod>2013-10-03T13:01:48.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/泡泡提示与jQuery:抱怨js/</loc>
-    <lastmod>2013-10-03T13:01:38.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/自由和php动力问答应��:Coordino/</loc>
     <lastmod>2013-10-03T12:42:12.000Z</lastmod>
   </url>
@@ -413,11 +413,23 @@
     <lastmod>2013-10-03T12:39:26.000Z</lastmod>
   </url>
   <url>
+    <loc>http://beddeb.com/2013/10/03/谷歌的网页设计师,一个工具,用于构建HTML5网站&广告/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/自托管和免费的项目管理应用为自由职业者-独奏/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
     <loc>http://beddeb.com/2013/10/03/一个jQuery插件可定制的标签——Tabslet/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
@@ -429,27 +441,15 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/自托管和免费的项目管理应用为自由职业者-独奏/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/自动和好看”页面加载酒吧”——速度/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/谷歌的网页设计师,一个工具,用于构建HTML5网站&广告/</loc>
+    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&/</loc>
+    <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
 </urlset>
