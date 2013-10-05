@@ -43,6 +43,9 @@ p {
   margin: 0 0 20px;
   padding: 0;
 }
+br {
+  display: none;
+}
 strong {
   color: #222;
   font-weight: 700;
@@ -304,9 +307,6 @@ article .entry table,
 article .entry dl {
   margin: 0 0 10px;
 }
-br{
-  display: none;
-}
 article .entry h1,
 article .entry h2,
 article .entry h3 {
@@ -552,8 +552,8 @@ article footer .tags:before {
   margin: 0 auto;
   padding: 10px 0;
   color: #fff;
-  text-shadow: rgba(0,0,0,0.25) 0 2px 0;
   margin-left: 5%;
+  text-shadow: rgba(0,0,0,0.25) 0 2px 0;
 }
 @media screen and (max-width: 600px) {
   #sidebar {
@@ -613,7 +613,7 @@ article footer .tags:before {
   display: inline-block;
 }
 #footer {
-  width: 680px;
+  width: 95%;
   margin: 20px auto 0;
   padding: 20px 0 0;
   color: #ccc;
