@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://beddeb.com/2013/10/13/页内&amp;即时媒体播放器——雅虎!WebPlayer/</loc>
+    <lastmod>2013-10-13T05:24:02.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/13/聚焦到你的设计和编码的任务更好:5免��番茄工作法程序/</loc>
+    <lastmod>2013-10-13T05:03:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/11/���费的JavaScript库——JointJS图样/</loc>
+    <lastmod>2013-10-11T12:12:47.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/11/截图只有JavaScript:html2canvas/</loc>
+    <lastmod>2013-10-11T12:12:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/11/简化和轻量级的颜色选择器-福莱希/</loc>
+    <lastmod>2013-10-11T12:12:27.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/11/Web开发平台为云- Opa/</loc>
+    <lastmod>2013-10-11T12:12:17.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/11/比较的HTML5视频播放器:VideoSWS/</loc>
     <lastmod>2013-10-11T10:28:57.000Z</lastmod>
   </url>
@@ -4777,18 +4801,6 @@
     <lastmod>2013-10-03T13:03:51.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/截图只有JavaScript:html2canvas/</loc>
-    <lastmod>2013-10-03T13:03:41.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/简化和轻量级的颜色选择器-福莱希/</loc>
-    <lastmod>2013-10-03T13:03:31.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/Web开发平台为云- Opa/</loc>
-    <lastmod>2013-10-03T13:03:21.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/自由和php动力问答应��:Coordino/</loc>
     <lastmod>2013-10-03T12:42:12.000Z</lastmod>
   </url>
@@ -4809,18 +4821,6 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/捕获键盘输入与JavaScript:键盘按键/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/自托管和免费的项目管理应用为自由职业者-独奏/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
@@ -4833,11 +4833,23 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
+    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/捕获键盘输入与JavaScript:键盘按键/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/03/一个jQuery插件可定制的标签——Tabslet/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
     <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
 </urlset>
