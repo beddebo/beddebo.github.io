@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://beddeb.com/2013/10/14/AMPPS -本地Web服务器环境与单点击安装的流行应用程序/</loc>
+    <lastmod>2013-10-14T09:38:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/一个jQuery插件,Instabir AB测试/</loc>
+    <lastmod>2013-10-14T09:38:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/图标8 -一个定期不断出现的一系列窗口8启发图标/</loc>
+    <lastmod>2013-10-14T09:36:15.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/jQuery图像滑块结合,Slidorion手风琴/</loc>
+    <lastmod>2013-10-14T09:29:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/创意,css3动力和动画菜单/</loc>
+    <lastmod>2013-10-14T09:29:21.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/一个小而强大的JavaScript动画框架- jsMorph/</loc>
+    <lastmod>2013-10-14T09:29:11.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/MySQL服务器,查询优化与MONyog -(赠品3许可证)/</loc>
+    <lastmod>2013-10-14T09:29:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/jsMessage -显示警报和通知与风格/</loc>
+    <lastmod>2013-10-14T09:28:51.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/反应性文件——纠结。JavaScript/</loc>
+    <lastmod>2013-10-14T09:28:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/编译你的*。更少的文件到有效的CSS:SimpLESS/</loc>
+    <lastmod>2013-10-14T09:28:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/嵌入swf:一个配置为麻省/</loc>
+    <lastmod>2013-10-14T09:28:21.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/对象在透明图像使可点击:alphaPun.ch/</loc>
+    <lastmod>2013-10-14T09:26:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/强大的网站聊天应用程序——CometChat(4许可证赠品和10%的折扣)/</loc>
+    <lastmod>2013-10-14T09:26:17.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/14/整合媒体从流行的视频服务MooVES MooTools -/</loc>
+    <lastmod>2013-10-14T09:24:21.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/13/页内&amp;即时媒体播放器——雅虎!WebPlayer/</loc>
     <lastmod>2013-10-13T05:24:02.000Z</lastmod>
   </url>
@@ -4813,11 +4869,7 @@
     <lastmod>2013-10-03T12:39:26.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/自动和好看”页面加载酒吧”——速度/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/谷歌的网页设计师,一个工具,用于构建HTML5网站&amp;广告/</loc>
+    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&amp;/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
@@ -4825,15 +4877,11 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&amp;/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
     <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/自动和好看”页面加载酒吧”——速度/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
@@ -4845,11 +4893,19 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
+    <loc>http://beddeb.com/2013/10/03/谷歌的网页设计师,一个工具,用于构建HTML5网站&amp;广告/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
     <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
 </urlset>
