@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://beddeb.com/2013/10/23/CSS——响应的CSS框架层的结构/</loc>
+    <lastmod>2013-10-23T13:19:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/丰富的内容编辑蝇:先生特雷弗/</loc>
+    <lastmod>2013-10-23T13:19:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/视频播放器没有视频文件——帧球员/</loc>
+    <lastmod>2013-10-23T13:19:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/产品一旦页面滚动与jQuery/</loc>
+    <lastmod>2013-10-23T13:18:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/检测平台,操作系统&amp;取向——设备js/</loc>
+    <lastmod>2013-10-23T13:18:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/WordPress &amp; Joomla模板由TemplateMonster赠品/</loc>
+    <lastmod>2013-10-23T13:18:30.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/可嵌入,微&amp;(自我):Scrollback主持论坛/</loc>
+    <lastmod>2013-10-23T13:14:39.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/一个稳定的框架,用于发送HTTP请求与PHP -���饮/</loc>
+    <lastmod>2013-10-23T13:10:33.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/手机/���板友好视差效应:视差js/</loc>
+    <lastmod>2013-10-23T13:08:25.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/意图。js -操纵DOM通过HTML属性响应布���/</loc>
+    <lastmod>2013-10-23T13:08:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/免费定制谷歌分析API——OOcharts仪表板/</loc>
+    <lastmod>2013-10-23T13:07:51.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/开源社区的照片应用程序:��影师io/</loc>
+    <lastmod>2013-10-23T12:57:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/23/Screensiz。es -一个地方找到屏幕尺寸信息,许多流行的设备/</loc>
+    <lastmod>2013-10-23T12:53:39.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/20/ZeroBundle -免费资源束为设计师/</loc>
     <lastmod>2013-10-20T03:32:18.000Z</lastmod>
   </url>
@@ -7493,6 +7545,22 @@
     <lastmod>2013-10-03T12:39:26.000Z</lastmod>
   </url>
   <url>
+    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&amp;/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
+    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://beddeb.com/2013/10/03/一个jQuery插件可定制的标签——Tabslet/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
@@ -7501,15 +7569,11 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/PHP图像缓存——压缩和缓存图像/</loc>
+    <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/对话框Modal Boxes Custombox - jQuery和CSS3效果/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/自动和好看”页面加载酒吧”——速度/</loc>
+    <loc>http://beddeb.com/2013/10/03/谷歌的网页设计师,一个工具,用于构建HTML5网站&amp;广告/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
@@ -7517,19 +7581,7 @@
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
   <url>
-    <loc>http://beddeb.com/2013/10/03/FireShell -快速前端样板和工作流/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/LiteCart -免费的电子商务应用程序。&amp;/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/基于web的工具,用于估算电子书收入/</loc>
-    <lastmod>2013-10-03T11:58:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://beddeb.com/2013/10/03/谷歌的网页设计师,一个工具,用于构建HTML5网站&amp;广告/</loc>
+    <loc>http://beddeb.com/2013/10/03/自动和好看”页面加载酒吧”——速度/</loc>
     <lastmod>2013-10-03T11:58:40.000Z</lastmod>
   </url>
 </urlset>
